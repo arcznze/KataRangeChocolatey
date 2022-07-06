@@ -9,3 +9,14 @@ Este algoritmo tiene como objetivo realizar una serie de operaciones a el/los ra
 
 ## Proceso de instalación
 Para poder instalar el algoritmo, se requiere tener chocolatey descargado en su máquina. Para poder descargarlo, ver las instrucciones siguientes en su página oficial: [Chocolatey Install](https://chocolatey.org/install)
+
+Después de instalar Chocolatey, abrir la línea de comando, en forma de adminstrador, y escribir el siguiente comando:
+
+choco install pruebarango --version=1.0.0
+
+### Proceso de ejecución
+Para poder ejecutar la aplicación, debe abrir la línea de comando, no es necesario que sea a manera de administrador, y escribir el siguiente comando:
+
+start KataRangeApp.exe
+
+A partir de ahí, podrás utilizar la aplicación como se explicó anteriormente.
