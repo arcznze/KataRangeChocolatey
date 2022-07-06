@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>pruebarango</id>
+    <version>1.0.0</version>
+    <title>pruebarango</title>
+    <authors>Desiree Mariñez y Axel Genao</authors>
+    <projectUrl>https://github.com/arcznze/KataRangeChocolatey.git</projectUrl>
+    <tags>range</tags>
+    <summary>Algoritmo que realiza operaciones a los rangos.</summary>
+    <description>Este algoritmo realiza diversas operaciones a los rangos dados por el usuario.</description>
+    </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
